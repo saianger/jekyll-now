@@ -1,10 +1,21 @@
 ---
 layout: post
-title: First blog
+title: Data Analysis Algorithms Review
 ---
 
-Yeah!!
+## Model Complexity vs Generalisation
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+* Over-fitting and Under-fitting
+* Generalisation Performance
+* Regularisation
+
+## Model Selection
+* Validation Set
+* K-Fold Cros-Validation
+* Leave-One-Out Cross Validation
+
+## Two major approaches to machine learning
+* A probabilistic approach
+* Bayesian approach
 
 Let's rock!
