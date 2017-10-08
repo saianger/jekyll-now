@@ -13,3 +13,4 @@ bp
 sp<-ggplot(mtcars, aes(x=wt, y=mpg, color=cyl)) + geom_point()
 sp
 ```
+![_config.yml]({{ site.baseurl }}/images/ggplot1.png)
